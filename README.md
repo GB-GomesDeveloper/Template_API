@@ -1,2 +1,5 @@
 # Template_API
-Esta API é uma versão simplificada do backend de um dashboard de controle de estoque desenvolvido originalmente para um projeto freelance. O código foi modularizado e tornado público para fins de demonstração de arquitetura e reutilização como template
+
+> 📌 A aplicação oferece um serviço RESTful para gerenciamento de inventário, registro rápido de vendas e autenticação de usuários, ideal para ser integrada a painéis e dashboards administrativos.
+> 
+> Para preservar a privacidade do cliente e a propriedade intelectual da interface, este repositório contém apenas a **versão simplificada e modularizada da API**, servindo como template de demonstração das minhas práticas de arquitetura e código.
